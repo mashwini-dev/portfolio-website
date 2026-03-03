@@ -1,7 +1,7 @@
 **README.md:**
 
 ```md
-Data Engineer Portfolio – Dubai
+Data Engineer Portfolio
 
 This is a personal portfolio website showcasing Data Engineering projects:
 - Dubai Retail Analytics ETL Pipeline
@@ -18,4 +18,5 @@ Built with:
 3. Select "Deploy from branch".
 4. Choose branch: `main`, folder: `/root`.
 5. Your site goes live at:
+
    https://yourgithub.github.io/portfolio-web
