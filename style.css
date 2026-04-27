@@ -25,7 +25,7 @@ header a {
 }
 
 .section-title {
-    font-size: 28px;
+    font-size: 25px;
     margin-bottom: 20px;
     border-left: 5px solid #003366;
     padding-left: 10px;
@@ -33,7 +33,7 @@ header a {
 
 .project-card {
     background: white;
-    padding: 10px;
+    padding: 20px;
     margin-bottom: 30px;
     border-radius: 10px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
